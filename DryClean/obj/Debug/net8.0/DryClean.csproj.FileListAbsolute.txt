@@ -1,0 +1,14 @@
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\bin\Debug\net8.0\DryClean.exe
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\bin\Debug\net8.0\DryClean.deps.json
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\bin\Debug\net8.0\DryClean.runtimeconfig.json
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\bin\Debug\net8.0\DryClean.dll
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\bin\Debug\net8.0\DryClean.pdb
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.AssemblyInfoInputs.cache
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.AssemblyInfo.cs
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.csproj.CoreCompileInputs.cache
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.dll
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\refint\DryClean.dll
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.pdb
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\DryClean.genruntimeconfig.cache
+E:\.Net track\OOP iti labs Solutions\OOP Projects\DryClean\obj\Debug\net8.0\ref\DryClean.dll
